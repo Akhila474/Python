@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>JSON4</title>
+	</head>
+	<body>
+		<script>
+			var Patient1,Patient2,x="";
+			Patient1={
+				"Pname":"John",
+				"Dname":"James",
+				"Disease":"Typhoid",
+				"Symptoms":["Vomiting","Fever","BodyPains"]
+				};
+			Patient2={
+				"Pname":"Mathew",
+				"Dname":"Philips",
+				"Disease":"Dengue",
+				"Symptoms":["Vomiting","Fever","BodyPains","Headache","Fatigue"]
+				};
+			document.write("<h3>Patient1 details are : </h3><br/>");
+			document.write("Name : "+Patient1.Pname+"<br/>Consulting Doctor : "+Patient1.Dname+"<br/>Disease : "+Patient1.Disease+"<br/>Symptoms are : ");
+			for(i in Patient1.Symptoms)
+			{
+				x+=Patient1.Symptoms[i]+", ";
+			}
+			document.write(x);
+			
+			document.write("<hr/>");
+			
+			document.write("<h3>Patient2 details are : </h3><br/>");
+			document.write("Name : "+Patient2.Pname+"<br/>Consulting Doctor : "+Patient2.Dname+"<br/>Disease : "+Patient2.Disease+"<br/>Symptoms are : ");
+			for(i in Patient2.Symptoms)
+			{
+				x+=Patient2.Symptoms[i]+", ";
+			}
+			document.write(x);
+		</script>
+	</body>
+
+</html>
