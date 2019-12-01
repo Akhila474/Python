@@ -13,38 +13,38 @@
  
 ## List of programs:
 
-##### *Basics of Python
+##### * Basics of Python
   * Loops and List Comprehensions
   * List,tuples,dictionaries
   * Functions and Class
   
-##### *Python programs
-  *ChangeString
-  *LetterSurround
-  *HourMinute
-  *AgeConvert
-  *OddRange
-  *AtomicDictionary
-  *StudentDetails
-  *TemperatureConvert
-  *SentenceReverse
+##### * Python programs
+  * ChangeString
+  * LetterSurround
+  * HourMinute
+  * AgeConvert
+  * OddRange
+  * AtomicDictionary
+  * StudentDetails
+  * TemperatureConvert
+  * SentenceReverse
   
-##### *JavaScript Programs
-  *ChangeString
-  *LetterSurround
-  *HourMinute
-  *AgeConvert
-  *OddRange
-  *LongestWord
-  *Divisibility
-  *Multiplication
-  *Client side validation(Bakery)
-  *JSON(Patient Details)
-  *JSON(Car Details)
-  *JSON(Color Names)
+##### * JavaScript Programs
+  * ChangeString
+  * LetterSurround
+  * HourMinute
+  * AgeConvert
+  * OddRange
+  * LongestWord
+  * Divisibility
+  * Multiplication
+  * Client side validation(Bakery)
+  * JSON(Patient Details)
+  * JSON(Car Details)
+  * JSON(Color Names)
   
-##### *Data Visualization
-  *Student Performance
-  *Black Friday
-  *Iris
-  *Titanic
+##### * Data Visualization
+  * Student Performance
+  * Black Friday
+  * Iris
+  * Titanic
