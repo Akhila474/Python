@@ -48,3 +48,22 @@
   * Black Friday
   * Iris
   * Titanic
+  
+  ## Screenshots:
+* My GitHub Repository
+
+![](images/Screenshot (16).png)
+
+* Python Programs
+
+![](images/Screenshot (17).png)
+
+* Javascript Programs
+
+![](images/Screenshot (18).png)
+
+* Data Visualization Program
+
+![](images/Screenshot (19).png)
+
+
