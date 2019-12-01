@@ -8,15 +8,15 @@
 
 ## Section:5A
 
-## Submitted to Dr. Mydhili K Nair
-## (Faculty Coordinator)
+## Submitted to Dr. Mydhili K Nair (Faculty Coordinator)
 
+ 
 ## List of programs:
 
 ##### *Basics of Python
-  *Loops and List Comprehensions
-  *List,tuples,dictionaries
-  *Functions and Class
+  * Loops and List Comprehensions
+  * List,tuples,dictionaries
+  * Functions and Class
   
 ##### *Python programs
   *ChangeString
