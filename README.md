@@ -52,18 +52,18 @@
   ## Screenshots:
 * My GitHub Repository
 
-![](images/Screenshot (16).png)
+![](Screenshots/i1.png)
 
 * Python Programs
 
-![](images/Screenshot (17).png)
+![](Screenshots/i2.png)
 
 * Javascript Programs
 
-![](images/Screenshot (18).png)
+![](Screenshots/i3.png)
 
 * Data Visualization Program
 
-![](images/Screenshot (19).png)
+![](Screenshots/i4.png)
 
 
