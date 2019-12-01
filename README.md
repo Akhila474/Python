@@ -1,24 +1,24 @@
-#Scripting Language Lab Programs Submission
+# Scripting Language Lab Programs Submission
 
-###(under Department of ISE,Ramaiah Institute of Technology)
+### (under Department of ISE,Ramaiah Institute of Technology)
 
-##USN:1MS17IS013
+## USN:1MS17IS013
 
-##Name:Akhila N
+## Name:Akhila N
 
-##Section:5A
+## Section:5A
 
-##Submitted to Dr. Mydhili K Nair
-##(Faculty Coordinator)
+## Submitted to Dr. Mydhili K Nair
+## (Faculty Coordinator)
 
-##List of programs:
+## List of programs:
 
-*#####Basics of Python
+##### *Basics of Python
   *Loops and List Comprehensions
   *List,tuples,dictionaries
   *Functions and Class
   
-*#####Python programs
+##### *Python programs
   *ChangeString
   *LetterSurround
   *HourMinute
@@ -29,7 +29,7 @@
   *TemperatureConvert
   *SentenceReverse
   
-*#####JavaScript Programs
+##### *JavaScript Programs
   *ChangeString
   *LetterSurround
   *HourMinute
@@ -43,7 +43,7 @@
   *JSON(Car Details)
   *JSON(Color Names)
   
-*#####Data Visualization
+##### *Data Visualization
   *Student Performance
   *Black Friday
   *Iris
